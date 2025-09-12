@@ -9,3 +9,13 @@ martin.mihailov@educa.madrid.org
 -Ciberseguridad
 
 -Montaje y mantenimiento
+
+#### Experiencia laboral:
+
+Vigilante auxiliar en entornos acuaticas.
+
+Porfesional de la cocina y venta de comida italiana.
+
+Instalador de equipos informaticos en red.
+
+
