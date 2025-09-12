@@ -10,7 +10,7 @@ martin.mihailov@educa.madrid.org
 
 -Montaje y mantenimiento
 
-#### Experiencia laboral:
+### Experiencia laboral:
 
 - Vigilante auxiliar en entornos acuaticas.
 
@@ -18,7 +18,7 @@ martin.mihailov@educa.madrid.org
 
 - Instalador de equipos informaticos en red.
 
-##### Aficiones:
+### Aficiones:
 1. Deportista
 2. Alpinista
 3. Gamer
@@ -31,5 +31,12 @@ Idiomas:
 * Ingles.
 
 * Bulgaro.
+
+  ### Imagen:
+
+![Atardecer](https://galicia.info/wp-content/uploads/2025/06/sunset-8331285_1280.jpg)
+
+Link al aula virtual python [https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/course/view.php?id=401)
+
 
 
