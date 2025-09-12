@@ -12,11 +12,11 @@ martin.mihailov@educa.madrid.org
 
 #### Experiencia laboral:
 
-Vigilante auxiliar en entornos acuaticas.
+- Vigilante auxiliar en entornos acuaticas.
 
-Porfesional de la cocina y venta de comida italiana.
+- Porfesional de la cocina y venta de comida italiana.
 
-Instalador de equipos informaticos en red.
+- Instalador de equipos informaticos en red.
 
 ##### Aficiones:
 1. Deportista
@@ -26,9 +26,10 @@ Instalador de equipos informaticos en red.
 
 Idiomas:
 
-Español.
+* Español.
 
-Ingles.
+* Ingles.
 
-Bulgaro.
+* Bulgaro.
+
 
