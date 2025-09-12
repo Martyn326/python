@@ -36,7 +36,12 @@ Idiomas:
 
 ![Atardecer](https://galicia.info/wp-content/uploads/2025/06/sunset-8331285_1280.jpg)
 
+## LINK:
+
 Link al aula virtual python [https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/course/view.php?id=401)
+
+### HORARIO:
+
 
 
 
