@@ -45,8 +45,8 @@ Link al aula virtual python [https://aulavirtual32.educa.madrid.org/ies.sierrade
 | HORA        | LUNES      | MARTES     | MIERCOLES  | JUEVES     | VIERNES    |
 |-------------|------------|------------|------------|------------|------------|  
 | 8:30-9:25   | SOR        | SOR        | SOR        | SER RED    | SER RED    |
-| 9:25-10:20  | SOR        | SOR        | SOR        |
-| 10:20-11:15 | AP WEB     | INGLES     | 
+| 9:25-10:20  | SOR        | SOR        | SOR        | SERV RED | ITI EMPLE |
+| 10:20-11:15 | AP WEB     | INGLES     | SERV RED | PYTHON | SEGURIDAD |
 | 11:15-11:40 | **RECREO** | **RECREO** | **RECREO** | **RECREO** | **RECREO** |
 | 11:40-12:35 | PYTHON | SOSTENIBILIDAD | SER RED | AP WEB | SEGURIDAD |
 | 12:35-13:30 | PYTHON | SERV RED | DIGITALIZACIÓN | SOR | AP WEB |
