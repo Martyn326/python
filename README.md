@@ -42,6 +42,9 @@ Link al aula virtual python [https://aulavirtual32.educa.madrid.org/ies.sierrade
 
 ### HORARIO:
 
-
+| LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
+| ----- | ------ |
+|  SOR  | Elem 1, 2  |
+|  SOR  | Elem 2, 2  |
 
 
