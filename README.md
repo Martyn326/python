@@ -40,11 +40,12 @@ Idiomas:
 
 Link al aula virtual python [https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/course/view.php?id=401)
 
-### HORARIO:
+### HORARIO GM2:
 
-| LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
-| ----- | ------ |
-|  SOR  | Elem 1, 2  |
-|  SOR  | Elem 2, 2  |
+| HORA      |
+|-----------|
+| 8:30-9:25 |
+
+
 
 
